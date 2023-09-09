@@ -75,8 +75,6 @@
 
 19. Our "SQL Notebook" is ready with writable Markdown and HTML cells and executable SQL codes 👇🏻
 
-![Alt text](imgs/19.query.png)
-
 ![Alt text](sql-notebook.gif)
 
 
